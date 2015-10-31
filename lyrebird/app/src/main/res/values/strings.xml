@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lyrebird</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_record">Record</string>
+    <string name="button_play">Play</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
